@@ -36,6 +36,18 @@ body {
     margin: 20px;
 }
 
+.titulo2 {
+    color: black;
+    text-align: center;
+    font-family: "Super Mario World", "verdana", "helvetica", "arial", etc;
+    font-size: large;
+    font-style: fonte obliqua;
+    font-weight: 25;
+    font-stretch: condensed;
+    font-variant: small-caps;
+    margin: 10px;
+}
+
 .memory-game {
     height: 640px;
     width: 640px;
