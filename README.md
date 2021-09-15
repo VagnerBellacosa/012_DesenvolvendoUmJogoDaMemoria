@@ -14,4 +14,5 @@ DESCRIÇÃO Nesse projeto, o desafio será criar um jogo da memória utilizando 
 ### Proximos passos
 
 - Inclusao de jogo Gormitt
-- 
+
+https://web.digitalinnovation.one/project/desenvolvendo-um-jogo-da-memoria/learning/bfb5bc15-cb37-4a6c-9b2a-e4f98e004897?back=/track/javascript-game-developer
